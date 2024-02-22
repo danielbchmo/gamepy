@@ -1,3 +1,5 @@
+#JUST ADD YOUR IMG FOLDER
+
 import pygame
 import sys
 import random
